@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/michaelbaer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://baer.space
+  * I am michaelbaer (https://keybase.io/michaelbaer) on keybase.
+  * I have a public key with fingerprint B1C7 390D 22D8 BEBD 9094  C78C E021 3C7D E4CD FEA5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01209630f3aaf209c3a49312e2c0543abbfda809089089ec9c80546139c09b41cd380a",
+            "fingerprint": "b1c7390d22d8bebd9094c78ce0213c7de4cdfea5",
+            "host": "keybase.io",
+            "key_id": "e0213c7de4cdfea5",
+            "kid": "0101bd6d90a4a65469c77c5d70a370802fe72fa4a83872e2d3029e6625e57f50f3930a",
+            "uid": "41c3ac38b185c2321597c81e12da6719",
+            "username": "michaelbaer"
+        },
+        "service": {
+            "hostname": "baer.space",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483701479,
+    "expire_in": 157680000,
+    "prev": "b08ce5d2a19896c84030777d8f9921013558bfe87a72f0e7f23e2812035394ed",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMNxAnicbVJtUBVVGL4oHwEpEkRCIwwbMBB3bD/u3t29hjDDR82YRBF+pDPXs2fP
+clfgXrhfqHCHTOAPlkGjoSMxQCgMkBM0hTUYl0hJYAwhS5SvRDGHQiVMKaSzjP5r
+Z2f27Ps+73Oe55m3d81qjZ/HZOSrrunBx40e/e5qh2aHpXimiBAt0n7CUETkoJUP
+ypWQzW7MUSTCQJAUTQp6hpQZAGR8hAzQCQxFIxqSrI4BoihLgCcFkldfBAXI47qe
+YgRICqKOghLDk4DQErJizkbWfKtitmNakYIcI5ASTUu8iERJIAUd5HiISJpiICch
+HZRkBFg8aLLY1AksTgQ2tFGx4Br+Ma7I+x/8U90kJUp6TAx0QI8VCZDjICtxJGA4
+kidpGXG0jHs8w3PYjcSQtID0eppFLCez2K/ArOh2rNBhIwyADC9SPAtphqZYgYM8
+hShaAnqOElSgDVnNIA9hdJ4CTQDligBZCZeWwA2nApGarWrmCUjtbrTlA9zQEvlW
+i90CLbm4brLb820Gdc6+P18FFiLR+ITCKCpmCQeJJ5zIalMsZsJAYSS0KyonpeOx
+OUrHCVoC7ctXrMioqAiW0/MkftR7kFO9m8RRsxINKIEX9JDXkQzJcZzEy4JA4+QY
+luVFGfEcwCGRiJNpBtE8XgWGZQQdkgjVVIHZQhg4LBNkY0qbkm0GdocVEa4e925P
+jYefxttrlbpgGj/fdU/XLq8qYLk4Nab80FHyyFhXePmmmLsNE6G1sU0PQ7b6piyc
+m2/xOB26rq25bCc9WFZVjsKqf979a4tn8KPb3L6P4uL7n/93mIi+lJpQ1tm+pSSG
++sI9q9QHZRbW+V/7J7s+3W9aftixNnzyBYcruS/6zeApNi24r3DQ+0WvpvWmDnfG
+xcUrjl++B7TPtTNDBQvftlacfTDa/vXIx36GtVPEyN2pgcUfJw521QdaO01pSBua
+ue1eeq22rqniy3cKl92ta446a0ybGi7d6ovacPJE/La8Ny7MaAUtDfu3TkcGwLQ7
+B8v9cuKyz/+0udj127yPNnV6bKhgKCo+q3xnzV+aytLmnN5k89VmGH04mXjmMj1V
+X7VhNixr+J7j08cngm4tZtSN33AeyXmOK32tImPXQGD1hzevJ9wJj+rpSPSNTZz5
+UxrZ5d7+Xuvn8sn49c/OlZZozmuNY2Gnf7DTPePvHvM6fKv6ctrIXuLGsCXxM582
+z+P+e/9gfe/viIjR1x4Yvbg9vjGN6jqU0pV5rBvsGe8qmntkeDv97Ou1PcFxEZH9
+AxNvhUjd85PXP7mwZ/Pv4WfsGlfziHdp0ryt5aWrs9IAf+67v5tunxp1+OsDnJ0H
+Wr4a1tyMqP1mWXmlfVXS/coHsrJwJbakLHBueakSbPmg6XjS0OqlpZiEzvc7Xg7p
+jgzqrdElpjRMZeWeamz7D+00xmg=
+=SrIX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/michaelbaer
+
+==================================================================
